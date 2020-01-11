@@ -13,7 +13,7 @@ Espero actualizar esta lista constantemente según voy haciendo más trámites y
 
 ## Aplicación a Universidades
 
-* [Instituto de Matemática y Estadística - Universidad de São Paulo (IME-USP)](ime)
+* [Instituto de Matemática y Estadística - Universidad de São Paulo (IME-USP)](/manual/ime)
 * [Instituto de Computación - Universidad Estatal de Campinas (IC-UNICAMP)](https://www.google.com/)
 
 ## Residir en Brasil (São Paulo)
