@@ -40,3 +40,5 @@ Durante la calificación, se asigna una nota de 0 a 10 puntos a cada postulante.
 
 ### Consejos
 
+* Ayuda mucho haberse puesto en contacto con un profesor del área de interés. La lista de los profesores por área se encuentra [aquí](https://www.ime.usp.br/dcc/pos/areas). Esto es tan recomendable que durante la postulación se suele preguntar si ya se ha entrado en contacto con algún profesor que aceptó ser orientador en caso de ser aceptado. Una buena forma de entrar en contacto con un profesor es presentarse, describirse un poco a sí mismo, intereses, adjuntar cv, y preguntar si el profesor estaría interesado en el perfil descrito para que sea orientador. Normalmente, los profesores manifiestan su interés de ser orientadores en su página web personal y dan instrucciones para entrar en contacto.
+* Es muy recomendable tener un Currículo Lattes ([http://lattes.cnpq.br/](http://lattes.cnpq.br/)) e indicarlo en la postulación. Casi todos los profesores (si no todos) del IME, y en general de cualquier programa en cualquier universidad de Brasil utilizan esta plataforma para mantener su currículum actualizado.
