@@ -13,11 +13,11 @@ Espero actualizar esta lista constantemente según voy haciendo más trámites y
 
 ## Aplicación a Universidades
 
-* [Instituto de Matemática e Estatística - Universidad de São Paulo (IME-USP)](https://www.google.com/)
-* [Instituto de Computacão - Universidad Estadual de Campinas (IC-UNICAMP)](https://www.google.com/)
+* [Instituto de Matemática y Estadística - Universidad de São Paulo (IME-USP)](ime)
+* [Instituto de Computación - Universidad Estatal de Campinas (IC-UNICAMP)](https://www.google.com/)
 
 ## Residir en Brasil (São Paulo)
 
 * [CPF (Cadastro de Pessoa Física)](https://www.google.com/)
-* [CNMR (Carteira de Registro Nacional Migratório)](https://www.google.com/)
+* [CRNM (Carteira de Registro Nacional Migratório)](https://www.google.com/)
 * [Cuenta Bancaria - Banco do Brasil](https://www.google.com/)
