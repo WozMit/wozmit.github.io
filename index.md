@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="images/me.jpg">
 
-I'm a Computer Science bachelor from Universidad Nacional de San Antonio Abad del Cusco. I'm interested in a M.Sc. degree in a subject related to Combinatorial Optimization, Approximation Algorithms, Graph Theory, etc.
+I am a M.Sc. Computer Science student from the University of Sao Paulo, Brazil. I'm interested in subjects related to Combinatorial Optimization, Approximation Algorithms and Graph Theory.
 
 ### Research Interests
 

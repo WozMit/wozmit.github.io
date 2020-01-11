@@ -1,0 +1,5 @@
+For compiling the project use:
+	bundle exec jekyll serve
+
+For viewing on the browser:
+	http://localhost:4000/
