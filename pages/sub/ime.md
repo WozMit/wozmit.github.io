@@ -1,7 +1,7 @@
 ---
 title: Aplicación IME-USP
-layout: test
-permalink: manual/ime
+layout: oxv_manual
+permalink: /ime
 footer: 'Última actualización: 11/01/2020'
 ---
 
