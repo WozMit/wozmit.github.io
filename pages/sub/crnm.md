@@ -5,22 +5,50 @@ permalink: /crnm
 footer: 'Última actualización: 12/01/2020'
 ---
 
-Agendamiento: https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314
+## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR.
 
-Fuente: http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018
+El CRNM (Carteira de Registro Nacional Migratório) es un documento obligatorio para los extranjeros que pretenden permanecer en Brasil por más de 90 días. Este documento acredita que la persona tiene tal autorización. Para solicitar el documento, uno debe acercarse a la Policía Federal relacionada con su domicilio con una cita agendada.
 
-* [https://servicos.dpf.gov.br/sismigra-internet/faces/publico/tipoSolicitacao/permanenciaRegistroEmissaoCie.seam?cid=34582](https://servicos.dpf.gov.br/sismigra-internet/faces/publico/tipoSolicitacao/permanenciaRegistroEmissaoCie.seam?cid=34582)
-* Type of Registration: Registro de Visto Consular
-* Main Occupation: 930 - ESTUDANTE
-* Individual Taxpayer's Register (CPF): 105.086.731-94
-* Filiation 1 y Filiation 2: information about your parents
-* Are you enrolled in the Brazilian Register of Foreign Nationals (RNM): No
-* Type of Travel Document: Passaporte
-* INPUT DATA: arrival informations
-	* State: SP (si llegaste por Sao Paulo)
-	* Place of entry:
-		* CAMPINAS – if you arrived through Aeroporto Viracopos (VCP)
-		* GUARULHOS – if you arrived through Aeroporto Guarulhos / Cumbica (GRU)
-		* SANTOS – if you arrived through Porto de Santos
-		* SAO PAULO – if you arrived through Aeroporto São Paulo / Congonhas (CGH)
-		* SAO SEBASTIAO – if you arrived through Aeroporto São Paulo / Congonhas (CGH)
+El extranjero tiene 90 días para obtener el documento desde su entrada a Brasil. Los pasos para su solicitud son:
+
+1. Llenar el formulario de solicitud de residencia: [https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2](https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2).
+	* Recomiendo colocar la página en portugués.
+	* Los campos marcados con un cuadrado rojo son obligatorios.
+	* Ocupação Principal: 930 - ESTUDANTE.
+	* Si ya se posee un [CPF](cpf), colocarlo.
+	* Filiação 1 y Filiação 2: Información sobre los padres.
+	* Ignorar la sección: Dados do RNM a menos que uno ya posea un RNM.
+	* Dados de documento de viagem: Passaporte, llenar los datos.
+	* Dados de entrada:
+		* UF (Unidade da Federação): SP (si se llegó por São Paulo).
+		* Local de Entrada:
+			* CAMPINAS - Si llegaste por el Aeropuerto de Viracopos (VCP).
+			* GUARULHOS – Si llegaste por el Aeropuerto de Guarulhos / Cumbica (GRU).
+			* SANTOS – Si llegaste por Porto de Santos.
+			* SAO PAULO – Si llegaste por el Aeropuerto de São Paulo / Congonhas (CGH).
+			* SAO SEBASTIAO – Si llegaste por São Sebasião.
+		* Data de Entrada: Fecha de llegada *(la fecha debe ser menor o igual a la actual)*.
+
+2. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
+	* CEP: Código postal dentro de Brasil, el formato es 00000-000.
+	* Unidade Arrecadadora: Hay dos opciones:
+		* SP (0272) SUPERINTENDENCIA REGIONAL NO ESTADO DE SAO PAULO.
+		* SP (0779) DELEGACIA DE POLICIA FEDERAL EM CAMPINAS.
+	* Codigo Receita STN: 140120
+	* El monto total debe ser R$ 204,77.
+
+3. Llenar la declaración de contacto: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
+
+4. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
+	* Formulario de solicitud de residencia.
+	* Dos fotos 3x4, recientes, a color y con el fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
+	* ...
+
+5. Realizar el agendamiento con la policía federal: [https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314](https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314).
+
+
+
+Fuentes:
+* [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018)
+* [https://www.ime.usp.br/crint/intercambios/programas/csf](https://www.ime.usp.br/crint/intercambios/programas/csf)
+* [http://www.internationaloffice.unicamp.br/visitors-guide/after-arrival-paper-work-needed/](http://www.internationaloffice.unicamp.br/visitors-guide/after-arrival-paper-work-needed/)
