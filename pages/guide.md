@@ -16,6 +16,6 @@ Espero actualizar esta lista constantemente según voy haciendo más trámites y
 
 ## Residir en Brasil (São Paulo)
 
-* [CPF (Cadastro de Pessoa Física)](https://www.google.com/)
-* [CRNM (Carteira de Registro Nacional Migratório)](https://www.google.com/)
+* [CPF (Cadastro de Pessoa Física)](cpf)
+* [CRNM (Carteira de Registro Nacional Migratório)](crnm)
 * [Cuenta Bancaria - Banco do Brasil](https://www.google.com/)
