@@ -1,7 +1,7 @@
 ---
 title: Documentos que llevar de Perú
 layout: oxv_manual
-permalink: /crnm
+permalink: /docsfromperu
 footer: 'Última actualización: 12/01/2020'
 ---
 
