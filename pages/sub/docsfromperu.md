@@ -14,3 +14,8 @@ La siguiente es una lista de documentos que se deben llevar para hacer los trám
 * Grado de bachiller apostillado.
 * Al menos 6 fotos 3x4 recientes a color y con fondo blanco.
 * ...
+
+## Documentos que obtener en Brasil:
+
+* Antecedentes penales de Perú.
+* Antecedentes criminales de Brasil (con CPF).

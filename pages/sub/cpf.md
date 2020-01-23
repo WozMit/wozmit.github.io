@@ -5,6 +5,8 @@ permalink: /cpf
 footer: 'Última actualización: 12/01/2020'
 ---
 
+Obtenerlo en Brasil: Receita Federal
+
 Agendamiento: https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314
 
 Fuente: http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018

@@ -2,7 +2,7 @@
 title: Carteira de Registro Nacional Migratório (CRNM)
 layout: oxv_manual
 permalink: /crnm
-footer: 'Última actualización: 12/01/2020'
+footer: 'Última actualización: 23/01/2020'
 ---
 
 ## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR.
@@ -28,6 +28,18 @@ El extranjero tiene 90 días para obtener el documento desde su entrada a Brasil
 			* SAO PAULO – Si llegaste por el Aeropuerto de São Paulo / Congonhas (CGH).
 			* SAO SEBASTIAO – Si llegaste por São Sebasião.
 		* Data de Entrada: Fecha de llegada *(la fecha debe ser menor o igual a la actual)*.
+	* CEP Tiene la forma de XXXXX-XXX (Ejm. El CEP La Universidad de São Paulo es 05508-900). [Aquí](https://cep.guiamais.com.br/) hay una página interesante para buscar tales códigos.
+	* ENDEREÇO COMERCIAL / INSTITUIÇÃO DE ENSINO: Dirección de la Facultad o Universidad.
+		Para el IME-USP:
+		* Nome do Estabelecimento Comercial/Estudantil: Instituto de Matemática e Estatística da Universidade de São Paulo.
+		* CEP: 05508-090
+		* Complemento: 1010, PRÉDIO DA IMEUSP
+		* Telefone Comercial: (11) 3091-1848
+	* Click en "Imprimir" en la página "Impressão da Solicitação" y guardarlo en formato pdf (el "Nº do Requerimento" es muy importante).
+	* Recomiendo también imprimir con el navegador a pdf ya que los formularios lucen diferente.
+	* Intentar agendar una cita haciendo click en "Agendar Atendimiento". Si no se encuentra una fecha disponible, cuando se vuelva al formulario anterior saldrá un mensaje diciendo: "Não foi encontrado nenhum horário disponível no periodo informado, no entanto, para a cidade de SÃO PAULO (posto DELEMIG/DREX/SR/PF/SP), não há necessidade de agendamento para os serviços de Autorização de Residência nos casos de: TRATAMENTO DE SAÚDE; ESTUDO; REUNIÃO FAMILIAR; LIBERDADE PROVISÓRIA; CUMPRIMENTO DE PENA e demais CASOS NÃO PREVISTOS na Lei nº 13.445/2017. Somente para esses serviços, o atendimento será realizado de segunda-feira a sexta-feira, no período das 08:00 às 15:00 horas, por ordem de chegada.". Si ese es el caso, sustituir el formulario del paso anterior con este.
+
+	https://servicos.dpf.gov.br/sismigra-internet/faces/publico/tipoSolicitacao/imprimeSolicitacao.seam
 
 2. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
 	* CEP: Código postal dentro de Brasil, el formato es 00000-000.
