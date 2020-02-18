@@ -2,7 +2,7 @@
 title: Carteira de Registro Nacional Migratório (CRNM)
 layout: oxv_manual
 permalink: /crnm
-footer: 'Última actualización: 23/01/2020'
+footer: 'Última actualización: 18/02/2020'
 ---
 
 ## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR.
@@ -42,21 +42,32 @@ El extranjero tiene 90 días para obtener el documento desde su entrada a Brasil
 	https://servicos.dpf.gov.br/sismigra-internet/faces/publico/tipoSolicitacao/imprimeSolicitacao.seam
 
 2. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
-	* CEP: Código postal dentro de Brasil, el formato es 00000-000.
+	* CEP: Código postal del domicilio dentro de Brasil, el formato es 00000-000.
 	* Unidade Arrecadadora: Hay dos opciones:
 		* SP (0272) SUPERINTENDENCIA REGIONAL NO ESTADO DE SAO PAULO.
 		* SP (0779) DELEGACIA DE POLICIA FEDERAL EM CAMPINAS.
-	* Codigo Receita STN: 140120
-	* El monto total debe ser R$ 204,77.
+	* Los pagos son:
+		* Autorización de residencia (R$ 168.13 - Codigo Receita STN 140066)
+		* Emisión del CRNM (R$ 204.77 - Codigo Receita STN 140120)
 
-3. Llenar la declaración de contacto: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
+3. Pagar los montos generados en el paso anterior.
 
-4. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
+4. Llenar la declaración de contacto: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
+
+5. Obtener los antecedentes criminales federales
+
+6. Obtener los antecedentes criminales estatales
+
+7. Obtener dos documentos del consulado de Perú en Sao Paulo:
+	* Registro consular
+	* Antecedentes penales
+
+8. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
 	* Formulario de solicitud de residencia.
 	* Dos fotos 3x4, recientes, a color y con el fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
 	* ...
 
-5. Realizar el agendamiento con la policía federal: [https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314](https://servicos.dpf.gov.br/cadastro-estrangeiro/faces/restrito/manterAgendamentoExterno/agendamento.seam?cid=173314).
+9. Realizar el agendamiento con la policía federal: [https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro).
 
 
 
