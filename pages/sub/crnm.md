@@ -77,12 +77,15 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 	* Dos fotos 3x4cm recientes (o casi) a color y con fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
 	* Declaración de dirección electrónica y demás medios de contacto (paso 2).
 	* Certificado de inscripción consular (paso 5, esto cuenta como una partida de nacimiento válida en Brasil).
-	* Fotocopia simple del DNI junto con el DNI original (o fotocopia certificada en un cartório brasileño sin el original).
+	* Fotocopia simple del DNI (si es simple será pedido el DNI original para verificar, si es fotocopia certificada en un cartório brasileño no será necesario el DNI original).
+	* Pasaporte original (solo para verificación).
 	* Certificado de antecedentes (federales) criminales en Brasil (paso 3).
 	* Certificado estatal de distribuciones criminales en Brasil (paso 4).
 	* Certificado consular de antecedentes penales en Perú (paso 5).
 	* Declaración de ausencia de antecedentes penales o policiales internacionales (paso 6).
 	* Comprobante de pago (paso 9).
+
+	Todos los documentos serán devueltos al final (excepto una de las fotos).
 
 Consejos:
 
