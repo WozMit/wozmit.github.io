@@ -71,8 +71,8 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 9. Pagar los montos generados en el paso anterior.
 
-9. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
-	* Constancia impresa de agendamiento con la Policía Federal (paso B).
+10. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
+	* Constancia impresa de agendamiento con la Policía Federal (paso 7).
 	* Formulario de solicitud de residencia (paso 1).
 	* Dos fotos 3x4cm recientes (o casi) a color y con fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
 	* Declaración de dirección electrónica y demás medios de contacto (paso 2).
