@@ -58,7 +58,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 	[https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro)
 
- El formulario de agenamiento pide, entre otras cosas, el número del formulario llenado en el paso 1. domicilio.
+	El formulario de agenamiento pide, entre otras cosas, el número del formulario llenado en el paso 1. domicilio.
 
 8. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
 	* CEP: Código postal del domicilio dentro de Brasil, el formato es 00000-000.
