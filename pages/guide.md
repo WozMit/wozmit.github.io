@@ -2,7 +2,7 @@
 title: El manual del cusqueño en São Paulo
 layout: oxv_manual
 permalink: /guide
-footer: 'Última actualización: 12/01/2020'
+footer: 'Última actualización: 22/02/2020'
 ---
 
 Este es una pequeña guía que comencé a escribir cuando hacía los trámites necesarios para mi mudanza a São Paulo. Aquí encontrarán un manual de supervivencia básica en el que quiero abarcar temas como la aplicación para un programa de pos-graduación en algunas universidades de Brasil (especialmente de São Paulo), temas de vivienda, consejos, trámites burocráticos, etc.
@@ -18,5 +18,5 @@ Espero actualizar esta lista constantemente según voy haciendo más trámites y
 
 * [Documentos que llevar de Perú](docsfromperu)
 * [CPF (Cadastro de Pessoa Física)](cpf)
-* [CRNM (Carteira de Registro Nacional Migratório)](crnm)
+* [Residencia Temporal (MERCOSUR)](crnm)
 * [Cuenta Bancaria - Banco do Brasil](https://www.google.com/)
