@@ -1,47 +1,64 @@
 ---
-title: Carteira de Registro Nacional Migratório (CRNM)
+title: Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR
 layout: oxv_manual
 permalink: /crnm
-footer: 'Última actualización: 18/02/2020'
+footer: 'Última actualización: 22/02/2020'
 ---
 
-## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR.
+Para permanecer en Brasil durante un largo periodo de tiempo (más de 90 días) es necesario obtener una autorización de residencia temporal (visa) o cruzar la frontera y volver a entrar antes de que el plazo de 90 días de turismo termine. Sin embargo, si de estudios se trata, la mayoría de las universidades brasileñas (si no todas) requieren que todos los alumnos extranjeros posean una visa de estudios o una autorización de residencia (temporal o permanente) para estudiar y obtener un grado en dicha universidad. El certificado que acredita que una persona tiene tal autorización es el CRNM (Carteira de Registro Nacional Migratório) y la inscripción en el Registro Nacional Migratorio (RNM). Las universidades solicitan el número de este último documento al momento de realizar la matrícula de un alumno extranjero.
 
-El CRNM (Carteira de Registro Nacional Migratório) es un documento obligatorio para los extranjeros que pretenden permanecer en Brasil por más de 90 días. Este documento acredita que la persona tiene tal autorización. Para solicitar el documento, uno debe acercarse a la Policía Federal relacionada con su domicilio con una cita agendada.
+Afortunadamente, Perú y Brasil (y otros países asociados) tienen un acuerdo que facilita la obtención de una autorización de residencia temporal especial: la autorización de residencia con base en el tratado MERCOSUR. El extranjero que obtiene tal autorización tiene permiso para trabajar y estudiar en el territorio brasileño por el periodo de dos años, luego de los cuales, la autorización puede ser renovada a una autorización permanente que dura por mucho más tiempo (esta renovación debe ser solicitada antes de que acabe la validez de la primera).
 
-El extranjero tiene 90 días para obtener el documento desde su entrada a Brasil. Los pasos para su solicitud son:
+La autorización de residencia de MERCOSUR puede ser solicitada directamente en una oficina de la Policía Federal en Brasil con un previo agendamiento para una cita (a diferencia de la visa de estudiante, que es por orden de llegada) antes de que pasen 90 días desde la entrada al país. La Policía Federal tiene en su página web los requerimientos para solicitar tal autorización: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018). El procedimiento no es difícil, pero puede demorar un tiempo (sobre todo por el agendamiento si es en una ciudad muy concurrida como São Paulo) y tener situaciones imprevistas. También es recomendable ya contar con un [CPF](cpf) y un pasaporte antes de realizar la solicitud.
 
-1. Llenar el formulario de solicitud de residencia: [https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2](https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2).
+Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son:
+
+1. Llenar el formulario de solicitud: [https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2](https://servicos.dpf.gov.br/sismigra-internet/redirect.seam?idPagina=2) (el link se actualiza con cada acceso).
 	* Recomiendo colocar la página en portugués.
 	* Los campos marcados con un cuadrado rojo son obligatorios.
 	* Ocupação Principal: 930 - ESTUDANTE.
 	* Si ya se posee un [CPF](cpf), colocarlo.
 	* Filiação 1 y Filiação 2: Información sobre los padres.
-	* Ignorar la sección: Dados do RNM a menos que uno ya posea un RNM.
+	* Ignorar la sección: "Dados do RNM" a menos que uno ya posea un RNM.
 	* Dados de documento de viagem: Passaporte, llenar los datos.
 	* Dados de entrada:
 		* UF (Unidade da Federação): SP (si se llegó por São Paulo).
-		* Local de Entrada:
+		* Local de Entrada (ejemplo de São Paulo):
 			* CAMPINAS - Si llegaste por el Aeropuerto de Viracopos (VCP).
 			* GUARULHOS – Si llegaste por el Aeropuerto de Guarulhos / Cumbica (GRU).
 			* SANTOS – Si llegaste por Porto de Santos.
 			* SAO PAULO – Si llegaste por el Aeropuerto de São Paulo / Congonhas (CGH).
-			* SAO SEBASTIAO – Si llegaste por São Sebasião.
-		* Data de Entrada: Fecha de llegada *(la fecha debe ser menor o igual a la actual)*.
-	* CEP Tiene la forma de XXXXX-XXX (Ejm. El CEP La Universidad de São Paulo es 05508-900). [Aquí](https://cep.guiamais.com.br/) hay una página interesante para buscar tales códigos.
+			* SAO SEBASTIAO – Si llegaste por el Aeropuerto de São Sebasião.
+		* Data de Entrada: Fecha de llegada (la fecha debe ser menor o igual a la actual, consejos al final).
+	* CEP: Código postal. Tiene la forma de XXXXX-XXX (Ejm. El CEP La Universidad de São Paulo es 05508-900). Una página interesante para encontrar el CEP: [https://cep.guiamais.com.br/](https://cep.guiamais.com.br/).
 	* ENDEREÇO COMERCIAL / INSTITUIÇÃO DE ENSINO: Dirección de la Facultad o Universidad.
-		Para el IME-USP:
+		Ejemplo para el IME-USP:
 		* Nome do Estabelecimento Comercial/Estudantil: Instituto de Matemática e Estatística da Universidade de São Paulo.
 		* CEP: 05508-090
 		* Complemento: 1010, PRÉDIO DA IMEUSP
 		* Telefone Comercial: (11) 3091-1848
 	* Click en "Imprimir" en la página "Impressão da Solicitação" y guardarlo en formato pdf (el "Nº do Requerimento" es muy importante).
-	* Recomiendo también imprimir con el navegador a pdf ya que los formularios lucen diferente.
-	* Intentar agendar una cita haciendo click en "Agendar Atendimiento". Si no se encuentra una fecha disponible, cuando se vuelva al formulario anterior saldrá un mensaje diciendo: "Não foi encontrado nenhum horário disponível no periodo informado, no entanto, para a cidade de SÃO PAULO (posto DELEMIG/DREX/SR/PF/SP), não há necessidade de agendamento para os serviços de Autorização de Residência nos casos de: TRATAMENTO DE SAÚDE; ESTUDO; REUNIÃO FAMILIAR; LIBERDADE PROVISÓRIA; CUMPRIMENTO DE PENA e demais CASOS NÃO PREVISTOS na Lei nº 13.445/2017. Somente para esses serviços, o atendimento será realizado de segunda-feira a sexta-feira, no período das 08:00 às 15:00 horas, por ordem de chegada.". Si ese es el caso, sustituir el formulario del paso anterior con este.
+	* Intentar agendar una cita haciendo click en "Agendar Atendimiento" en la misma página (en caso de haber bastantes fechas disponibles, sugiero agendar unos 5 días hábiles después de la llegada al país, pero menos de 2). Dependiendo de la ciudad, puede o no haber un horario disponible para la cita, en cualquier caso, es posible hacer el agendamiento luego.
 
-	https://servicos.dpf.gov.br/sismigra-internet/faces/publico/tipoSolicitacao/imprimeSolicitacao.seam
+2. Llenar la declaración de contacto: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
 
-2. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
+3. Certificado de antecedentes criminales en Brasil.
+
+4. Certificado estatal de distribuciones criminales en Brasil.
+
+5. Obtener dos documentos del consulado de Perú en Sao Paulo:
+	* Registro consular
+	* Antecedentes penales
+
+6. Declaración de ausencia de antecedentes penales o policiales internacionales.
+
+7. negrita Agendamiento con la Policía Federal negrita. En este paso, uno debe llevar los documentos en físico del paso anterior a la Policía Federal para que otorguen la autorización de residencia por el acuerdo de Mercosur. De acuerdo a la dirección de residencia (la que se llenó en el formulario), uno debe asistir a la Policía Federal correspondiente por ley. Normalmente existe una única instalación de la Policía Federal por ciudad (e.g. La ciudad de São Paulo tiene una, la ciudad de Campinas - São Paulo también tiene una). Dependiendo de la instalación en cuestión, es posible hacer un agendamiento de un día para otro (como es en Campinas por ejemplo), pero existen instalaciones en las que se da cita después de un par de meses. Lo ideal es tener una cita con la Policía Federal con algunos meses de anticipación si esque es una instalación muy concurrida (como es en São Paulo). El agedamiento puede ser hecho en el siguiente link:
+
+	[https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro)
+
+ El formulario de agenamiento pide, entre otras cosas, el número del formulario llenado en el paso 1. domicilio.
+
+7. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
 	* CEP: Código postal del domicilio dentro de Brasil, el formato es 00000-000.
 	* Unidade Arrecadadora: Hay dos opciones:
 		* SP (0272) SUPERINTENDENCIA REGIONAL NO ESTADO DE SAO PAULO.
@@ -50,24 +67,25 @@ El extranjero tiene 90 días para obtener el documento desde su entrada a Brasil
 		* Autorización de residencia (R$ 168.13 - Codigo Receita STN 140066)
 		* Emisión del CRNM (R$ 204.77 - Codigo Receita STN 140120)
 
-3. Pagar los montos generados en el paso anterior.
+8. Pagar los montos generados en el paso anterior.
 
-4. Llenar la declaración de contacto: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
+9. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
+	* Constancia impresa de agendamiento con la Policía Federal (paso B).
+	* Formulario de solicitud de residencia (paso 1).
+	* Dos fotos 3x4cm recientes (o casi) a color y con fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
+	* Declaración de dirección electrónica y demás medios de contacto (paso 2).
+	* Certificado de inscripción consular (paso 5).
+	* Fotocopia simple del DNI junto con el DNI original (o fotocopia certificada en un cartório brasileño sin el original).
+	* Certificado de antecedentes (federales) criminales en Brasil (paso 3).
+	* Certificado estatal de distribuciones criminales en Brasil (paso 4).
+	* Certificado consular de antecedentes penales en Perú (paso 5).
+	* Declaración de ausencia de antecedentes penales o policiales internacionales (paso 6).
+	* Comprobante de pago (paso 8).
 
-5. Obtener los antecedentes criminales federales
+Consejos:
 
-6. Obtener los antecedentes criminales estatales
-
-7. Obtener dos documentos del consulado de Perú en Sao Paulo:
-	* Registro consular
-	* Antecedentes penales
-
-8. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
-	* Formulario de solicitud de residencia.
-	* Dos fotos 3x4, recientes, a color y con el fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
-	* ...
-
-9. Realizar el agendamiento con la policía federal: [https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro).
+* El tema de la fecha de entrada en el formulario
+* No es necesario la cita para visa de estudios, pero sí para mercosur
 
 
 
