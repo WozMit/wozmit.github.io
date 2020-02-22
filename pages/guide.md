@@ -1,5 +1,5 @@
 ---
-title: El manual del cusqueño en São Paulo
+title: El manual del peruano en Brasil
 layout: oxv_manual
 permalink: /guide
 footer: 'Última actualización: 22/02/2020'
