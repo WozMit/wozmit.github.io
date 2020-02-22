@@ -5,6 +5,8 @@ permalink: /crnm
 footer: 'Última actualización: 22/02/2020'
 ---
 
+# Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR
+
 Para permanecer en Brasil durante un largo periodo de tiempo (más de 90 días) es necesario obtener una autorización de residencia temporal (visa) o cruzar la frontera y volver a entrar antes de que el plazo de 90 días de turismo termine. Sin embargo, si de estudios se trata, la mayoría de las universidades brasileñas (si no todas) requieren que todos los alumnos extranjeros posean una visa de estudios o una autorización de residencia (temporal o permanente) para estudiar y obtener un grado en dicha universidad. El certificado que acredita que una persona tiene tal autorización es el CRNM (Carteira de Registro Nacional Migratório) y la inscripción en el Registro Nacional Migratorio (RNM). Las universidades solicitan el número de este último documento al momento de realizar la matrícula de un alumno extranjero.
 
 Afortunadamente, Perú y Brasil (y otros países asociados) tienen un acuerdo que facilita la obtención de una autorización de residencia temporal especial: la autorización de residencia con base en el tratado MERCOSUR. El extranjero que obtiene tal autorización tiene permiso para trabajar y estudiar en el territorio brasileño por el periodo de dos años, luego de los cuales, la autorización puede ser renovada a una autorización permanente que dura por mucho más tiempo (esta renovación debe ser solicitada antes de que acabe la validez de la primera).
@@ -74,7 +76,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 	* Formulario de solicitud de residencia (paso 1).
 	* Dos fotos 3x4cm recientes (o casi) a color y con fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
 	* Declaración de dirección electrónica y demás medios de contacto (paso 2).
-	* Certificado de inscripción consular (paso 5).
+	* Certificado de inscripción consular (paso 5, esto cuenta como una partida de nacimiento válida en Brasil).
 	* Fotocopia simple del DNI junto con el DNI original (o fotocopia certificada en un cartório brasileño sin el original).
 	* Certificado de antecedentes (federales) criminales en Brasil (paso 3).
 	* Certificado estatal de distribuciones criminales en Brasil (paso 4).
