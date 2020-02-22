@@ -5,7 +5,7 @@ permalink: /crnm
 footer: 'Última actualización: 22/02/2020'
 ---
 
-# Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR
+## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR
 
 Para permanecer en Brasil durante un largo periodo de tiempo (más de 90 días) es necesario obtener una autorización de residencia temporal (visa) o cruzar la frontera y volver a entrar antes de que el plazo de 90 días de turismo termine. Sin embargo, si de estudios se trata, la mayoría de las universidades brasileñas (si no todas) requieren que todos los alumnos extranjeros posean una visa de estudios o una autorización de residencia (temporal o permanente) para estudiar y obtener un grado en dicha universidad. El certificado que acredita que una persona tiene tal autorización es el CRNM (Carteira de Registro Nacional Migratório) y la inscripción en el Registro Nacional Migratorio (RNM). Las universidades solicitan el número de este último documento al momento de realizar la matrícula de un alumno extranjero.
 
@@ -60,7 +60,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
  El formulario de agenamiento pide, entre otras cosas, el número del formulario llenado en el paso 1. domicilio.
 
-7. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
+8. Generar la Guia de Recolhimento da União (GRU): [https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2).
 	* CEP: Código postal del domicilio dentro de Brasil, el formato es 00000-000.
 	* Unidade Arrecadadora: Hay dos opciones:
 		* SP (0272) SUPERINTENDENCIA REGIONAL NO ESTADO DE SAO PAULO.
@@ -69,7 +69,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 		* Autorización de residencia (R$ 168.13 - Codigo Receita STN 140066)
 		* Emisión del CRNM (R$ 204.77 - Codigo Receita STN 140120)
 
-8. Pagar los montos generados en el paso anterior.
+9. Pagar los montos generados en el paso anterior.
 
 9. Alistar los siguientes documentos (existe un [checklist](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
 	* Constancia impresa de agendamiento con la Policía Federal (paso B).
@@ -82,7 +82,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 	* Certificado estatal de distribuciones criminales en Brasil (paso 4).
 	* Certificado consular de antecedentes penales en Perú (paso 5).
 	* Declaración de ausencia de antecedentes penales o policiales internacionales (paso 6).
-	* Comprobante de pago (paso 8).
+	* Comprobante de pago (paso 9).
 
 Consejos:
 
