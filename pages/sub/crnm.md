@@ -7,11 +7,15 @@ footer: 'Última actualización: 22/02/2020'
 
 ## Solicitud de autorización de residencia temporal con base en el tratado MERCOSUR
 
-Para permanecer en Brasil durante un largo periodo de tiempo (más de 90 días) es necesario obtener una autorización de residencia temporal (visa) o cruzar la frontera y volver a entrar antes de que el plazo de 90 días de turismo termine. Sin embargo, si de estudios se trata, la mayoría de las universidades brasileñas (si no todas) requieren que todos los alumnos extranjeros posean una visa de estudios o una autorización de residencia (temporal o permanente) para estudiar y obtener un grado en dicha universidad. El certificado que acredita que una persona tiene tal autorización es el CRNM (Carteira de Registro Nacional Migratório) y la inscripción en el Registro Nacional Migratorio (RNM). Las universidades solicitan el número de este último documento al momento de realizar la matrícula de un alumno extranjero.
+Para permanecer en Brasil durante un largo periodo de tiempo (más de 90 días) es necesario obtener una autorización de residencia temporal (visa) o cruzar la frontera y volver a entrar antes de que el plazo de 90 días de turismo termine. Sin embargo, si de estudios se trata, la mayoría de las universidades brasileñas (si no todas) requieren que todos los alumnos extranjeros posean una visa de estudios o una autorización de residencia (temporal o permanente) para estudiar y obtener un grado en dicha universidad. El documento que acredita que una persona tiene tal autorización es el CRNM (Carteira de Registro Nacional Migratório) y la inscripción en el Registro Nacional Migratorio (RNM). Las universidades solicitan el número de este último documento al momento de realizar la matrícula de un alumno extranjero.
 
 Afortunadamente, Perú y Brasil (y otros países asociados) tienen un acuerdo que facilita la obtención de una autorización de residencia temporal especial: la autorización de residencia con base en el tratado MERCOSUR. El extranjero que obtiene tal autorización tiene permiso para trabajar y estudiar en el territorio brasileño por el periodo de dos años, luego de los cuales, la autorización puede ser renovada a una autorización permanente que dura por mucho más tiempo (esta renovación debe ser solicitada antes de que acabe la validez de la primera).
 
-La autorización de residencia de MERCOSUR puede ser solicitada directamente en una oficina de la Policía Federal en Brasil con un previo agendamiento para una cita (a diferencia de la visa de estudiante, que es por orden de llegada) antes de que pasen 90 días desde la entrada al país. La Policía Federal tiene en su página web los requerimientos para solicitar tal autorización: [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018). El procedimiento no es difícil, pero puede demorar un tiempo (sobre todo por el agendamiento si es en una ciudad muy concurrida como São Paulo) y tener situaciones imprevistas. También es recomendable ya contar con un [CPF](cpf) y un pasaporte antes de realizar la solicitud.
+La autorización de residencia de MERCOSUR puede ser solicitada directamente en una oficina de la Policía Federal en Brasil con un previo agendamiento para una cita (a diferencia de la visa de estudiante, que es por orden de llegada) antes de que pasen 90 días desde la entrada al país. La Policía Federal tiene en su página web los requerimientos para solicitar tal autorización:
+
+[http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/portaria-interministerial-no-9-de-14-de-marco-de-2018).
+
+El procedimiento no es difícil, pero puede demorar un tiempo (sobre todo por el agendamiento si es en una ciudad muy concurrida como São Paulo) y tener situaciones imprevistas. También es recomendable ya contar con un [CPF](cpf) y un pasaporte antes de realizar la solicitud.
 
 Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son:
 
@@ -77,7 +81,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 8. **Generar los recibos a pagar**: Aquí se genera lo que se llama "Guia de Recolhimento da União (GRU)". Se debe obtener dos recibos: uno por la autorización de residencia y otro por la emisión del CRNM, estos pueden ser generados en:
 
-	[https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2)
+	[https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2](https://servicos.dpf.gov.br/gru2/gru?nac=1&rec=2) (el link se actualiza con cada acceso).
 
 	* **CEP**: Código postal del domicilio dentro de Brasil, el formato es 00000-000.
 	* **Unidade Arrecadadora**: Hay dos opciones:
@@ -101,7 +105,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 	* Certificado estatal de distribuciones criminales en Brasil (paso 4).
 	* Certificado consular de antecedentes penales en Perú (paso 5).
 	* Declaración de ausencia de antecedentes penales o policiales internacionales (paso 6).
-	* Comprobante de pago (paso 9).
+	* Comprobantes de pago (paso 9).
 
 	Todos los documentos serán devueltos al final (excepto una de las fotos).
 
