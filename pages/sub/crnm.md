@@ -51,13 +51,13 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 2. **Llenar la declaración de contacto**: Existe un modelo de la Policía Federal ofrecido en:
 
-	[http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf)
+	[http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/formularios-e-modelos-1/DeclaracaodeEnderecoEletronicoedeMaisMeiosdeContato.pdf).
 
 3. **Certificado de antecedentes criminales en Brasil**:
 
 4. **Certificado estatal de distribuciones criminales en Brasil**: Este se puede conseguir virtualmente en la página:
 
-	[https://esaj.tjsp.jus.br/sco/abrirCadastro.do](https://esaj.tjsp.jus.br/sco/abrirCadastro.do)
+	[https://esaj.tjsp.jus.br/sco/abrirCadastro.do](https://esaj.tjsp.jus.br/sco/abrirCadastro.do).
 
 	* **Modelo**: CERTIDÃO DE DISTRIBUIÇÃO DE AÇÕES CRIMINAIS
 	* **RG**: Número de pasaporte
@@ -75,7 +75,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 7. **Agendamiento con la Policía Federal**: En este paso, uno debe obtener una cita con la Policía Federal asignada al domicilio de residencia para poder entregar la solicitud. Normalmente existe una única instalación de la Policía Federal por ciudad (e.g. La ciudad de São Paulo tiene una, la ciudad de Campinas - São Paulo también tiene una). Dependiendo de la instalación en cuestión, es posible hacer un agendamiento de un día para otro (como es en Campinas por ejemplo), pero existen instalaciones en las que se da cita después de un par de meses. Lo ideal es tener una cita con la Policía Federal con algunos meses de anticipación si esque es una instalación muy concurrida (como es en São Paulo). El agedamiento puede ser hecho en el siguiente link:
 
-	[https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro)
+	[https://servicos.dpf.gov.br/cadastro-estrangeiro](https://servicos.dpf.gov.br/cadastro-estrangeiro).
 
 	El formulario de agenamiento pide, entre otras cosas, el número del formulario llenado en el paso 1. domicilio.
 
@@ -93,7 +93,7 @@ Los pasos para realizar la solicitud de autorización de residencia MERCOSUR son
 
 9. **Pagar los recibos**: Una vez obtenidos los recibos en el paso anterior, se debe pagar ambos conceptos en el Banco do Brasil y obtener los comprobantes de pago.
 
-10. **Alistar los siguientes documentos** (existe un checklist parecido aquí:  [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf) de estos):
+10. **Alistar los siguientes documentos** (existe un checklist parecido aquí:  [http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf](http://www.pf.gov.br/servicos-pf/imigracao/cedula-de-identidade-de-estrangeiro/documentos-necessarios-para-registro/acordo-ou-tratado-de-residencia-mercosul/AutorizacaodeResidnciaTemporariaComBasenoAcordoSobreResidnciaparaMercosuleAssociados.pdf)):
 	* Constancia impresa de agendamiento con la Policía Federal (paso 7).
 	* Formulario de solicitud de residencia (paso 1).
 	* Dos fotos 3x4cm recientes (o casi) a color y con fondo blanco (una [página](https://visafoto.com/zz_30x40_photo) interesante).
