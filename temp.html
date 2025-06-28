@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Jared León">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jared León's Homepage</title>
+    <script>  var url = window.location.href;  var local = false;  var rootdir;  var localdir = 'file:///home/wozmit/Documents/Projects/www/';  if(url.startsWith(localdir)){      local = true;      rootdir = localdir;  } else {      var locations = ['https://wozmit.github.io/',		       'https://www.ime.usp.br/~jared/'];      for (var y of locations)	  if (url.startsWith(y)){	      rootdir = y;	      break;	  }  }  document.write("<base href='" + rootdir + "' />");</script>
+    <link rel="stylesheet" href="config/style.css">
+    <link href="config/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body class="d-flex justify-content-center vw-100 min-vh-100 overflow-auto">
+    <script>  if (localStorage.lightTheme){      if (localStorage.lightTheme == 1){          document.documentElement.setAttribute('data-bs-theme', 'light');      } else {          document.documentElement.setAttribute('data-bs-theme', 'dark');      }  } else {      localStorage.lightTheme = 2;      document.documentElement.setAttribute('data-bs-theme', 'dark');  }</script>
+    <div class="d-flex flex-column page-container">
+      <nav class="navbar navbar-expand-md bg-body-tertiary sticky-top bg-primary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html">Jared León</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="publications.html">Publications</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="teaching/index.html">Teaching</a>
+              </li>
+            </ul>
+            <div class="flex-grow-1"></div>
+            <div class="form-check form-switch d-flex align-items-center justify-content-end gap-2">
+              <input class="form-check-input" type="checkbox" role="switch" onclick="changeLightTheme()" id="switchDarkLight">
+              <label class="form-check-label" for="switchDarkLight">
+                <svg width="18" height="18" fill="currentColor" class="bi bi-moon-fill" viewBox="0 0 16 16">
+                  <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z" />
+                </svg>
+              </label>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="px-4 w-100 pt-3">
+        <h1>Personal and fun stuff</h1>
+        
+        <p><a href="http://45.77.230.179:8096" target="_blank" rel="noopener noreferrer">Jellyfin</a></p>
+        
+        <p>a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a</p>
+        
+        <p>Some of my favourite <a href="ml.html">movies and shows</a>.</p>
+        
+        <p>I do not know a single person <s>in my motherland country</s> that supports <a href="https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html" target="_blank" rel="noopener noreferrer">this</a> (<i>did not say I do</i>).</p>
+        
+        <p>Hole <ul>world of nonsense</ul> sdf kjsdf. Now <b>sdfsdf</b> sdf <i>remember</i> kj kjs df =print(hello)= and also <s>delete</s> and</p>
+        
+        <h3>PowerPoint is Turing-complete (by Tom Wildenhain)</h3>
+        
+        <p>Check out <a href="https://www.youtube.com/watch?v=uNjxe8ShM-8" target="_blank" rel="noopener noreferrer">the video</a>.</p>
+        
+        <p>More about <a href="https://sigbovik.org/" target="_blank" rel="noopener noreferrer">The Association for Computational Heresy</a>.</p>
+        
+        <h3>Halting problem in "real life"</h3>
+        
+        <p>See <a href="https://www.youtube.com/watch?v=ym8x8B930tM" target="_blank" rel="noopener noreferrer">this</a>.</p>
+        
+        <p> This is how we put html code inside an org file.</p>
+        
+        <hr>
+        
+      </div>
+      <div class="flex-grow-1"></div>
+      <div class="w-100 d-flex justify-content-end flex-wrap">
+        <hr class="w-100">
+        Last modified: Tue 11 Jun 2024 21:42:55 UTC
+      </div>
+    </div>
+    <script src="config/bootstrap.bundle.min.js"></script>
+    <script>  function changeLightTheme(){      if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {          document.documentElement.setAttribute('data-bs-theme', 'light');          localStorage.lightTheme = 1;      }      else {          document.documentElement.setAttribute('data-bs-theme', 'dark');          localStorage.lightTheme = 2;      }	    }  if (localStorage.lightTheme){      if (localStorage.lightTheme == 1){          document.getElementById("switchDarkLight").checked = false;      } else {          document.getElementById("switchDarkLight").checked = true;      }  } else {      localStorage.lightTheme = 2;      document.getElementById("switchDarkLight").checked = true;  }  if (document.getElementById("switchDarkLight").checked) {      document.documentElement.setAttribute('data-bs-theme', 'dark');  } else {      document.documentElement.setAttribute('data-bs-theme', 'light');  }</script>
+  </body>
+</html>
