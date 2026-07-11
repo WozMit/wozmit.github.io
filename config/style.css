@@ -1,0 +1,9 @@
+.page-container {
+    width: 100%;
+}
+
+@media (min-width: 971px) {
+    .page-container {
+	width: 970px;
+    }
+}
